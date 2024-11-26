@@ -7,7 +7,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
 import model.Appointment;
-
+//Estudiante: Christian Orlando Garzon Sierra
+//Codigo: 202311008
+//projecto: MediSched
 public class IoManager {
 	
 	public String menu(String[]menu) {

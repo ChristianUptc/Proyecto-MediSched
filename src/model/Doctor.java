@@ -2,7 +2,9 @@ package model;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Estudiante: Christian Orlando Garzon Sierra
+//Codigo: 202311008
+//projecto: MediSched
 public class Doctor {
 	private String name;
 	private String username;

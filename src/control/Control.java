@@ -11,7 +11,9 @@ import java.util.regex.Pattern;
 import model.Appointment;
 import model.Doctor;
 import view.IoManager;
-
+//Estudiante: Christian Orlando Garzon Sierra
+//Codigo: 202311008
+//projecto: MediSched
 public class Control {
 	private IoManager view;
 	private Doctor doctor;

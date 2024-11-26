@@ -1,5 +1,7 @@
 package model;
-
+//Estudiante: Christian Orlando Garzon Sierra
+//Codigo: 202311008
+//projecto: MediSched
 public class Appointment {
 	private String patientName;
     private String date;  
